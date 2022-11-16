@@ -3,7 +3,7 @@
 
 ***
 
-### Semana 02 - (Retos Bootstrap- JS) - Buscaminas.
+### Semana 02 - (Retos Bootstrap- JS) - Conecta 4.
 
 ![Ejercicio](https://github.com/carlosnsuner/cns-conecta4-design-bt-js-urbalab/raw/master/img/Captura.PNG)
 
