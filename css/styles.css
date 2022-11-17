@@ -1,38 +1,49 @@
 body{
-    /* background-color: aquamarine; */
+    background-color: aquamarine;
 }
 .container{
     background-color: darkblue;
     height: 100vh;
 }
 .row{
-    /* background-color: orange; */
+    background-color: orange;
     height: 100vh;
 }
 .colBox{
     background-color: rgb(85, 156, 156);
-    height: 90vh;
+    height: 100vh;
     border: 1px solid black;
 }
 .forinline{
     background-color: blueviolet;
-    width: 500px;
-    height: 500px;
+    width: 825px;
+    height: 565px;
     align-items:center ;
+  
 }
 
 .fila{
-    height: 50px;
+    height: 95px;
     display: flex;
-}
-.boton{
-    width: 50px;
-    height: 50px;
-    background-color: grey;
-    border-radius: 0px;
-    border-color: black;
     
 }
+.boton{
+    width: 90px;
+    height: 90px;
+    background-color: grey;
+    margin-right: 15px;
+    margin-left: 15px;
+   
+
+border-bottom-left-radius: 50px;
+border-bottom-right-radius: 50px;
+border-top-left-radius: 50px;
+border-top-right-radius: 50px;
+
+border-color: black;
+    
+}
+
 .info{
     text-align: center;
 }
